@@ -29,11 +29,17 @@ Before:
 
 ![Image](Bash.png)
 
+Command Line Error:
+
+The command run before hand which caused the error was ```bash calculate.sh 5 5```
+
 After:
 
 ![Image](Code Fix.png)
 
 ![Image](Bash.png)
+
+With these fixes, the command ```bash calculate.sh 5 5``` will now run without an error
 
 ## Part 2
 I found my lab expierence for the second half of this quarter very helpful since I didn't know a lot of things before hand. Learning about bash and git is extremely helpful as I had no idea what to do before then. During lab, seeing which commands would produce errors and which would not really helped out as well in spotting errors in the terminal, as I felt like I needed more practice for that. Overall, diving deeper and getting introduced into bash and commands helped a lot.
