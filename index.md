@@ -11,4 +11,6 @@ The error seems to indicate that the problem is within the code itself, and not 
 
 **Bug Solution**
 
+![Image](Code Fix.png)
+
 I was able to find the error! The bug lies in the division operation. When two numbers are equal the denominator becomes zero, which causes a division by zero error. The Arithmetic Exception thrown in the output was something I didn't know, but now I know that it was thrown due to the division by zero error.
